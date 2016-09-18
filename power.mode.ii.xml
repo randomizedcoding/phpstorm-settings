@@ -1,0 +1,12 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="140" />
+    <option name="blueTo" value="251" />
+    <option name="colorAlpha" value="118" />
+    <option name="flamesEnabled" value="false" />
+    <option name="greenFrom" value="43" />
+    <option name="redFrom" value="0" />
+    <option name="shakeEnabled" value="false" />
+    <option name="sparkCount" value="5" />
+  </component>
+</application>

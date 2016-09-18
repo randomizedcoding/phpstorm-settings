@@ -1,0 +1,28 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="041be452-7318-4530-a4b0-5e6227cc4464" name="In Place" url="http://sandbox/apps/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4eb9d0f6-a088-4840-986b-a73c97b15399" name="Hand and Micro Dev" url="http://handandmicrodev.webhost.io/">
+        <fileTransfer host="handandmicrodev.ftp.webhost.io" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a7c51a7c-7528-4b5e-a0ee-5201d9fb343c" name="D4 Staging" url="http://rdgm-ckws.accessdomain.com">
+        <fileTransfer host="rdgm-ckws.accessdomain.com" port="22" rootFolder="/var/www/vhosts/rdgm-ckws.accessdomain.com/staging.rdgm-ckws.accessdomain.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA8OwJvYQXeC3u04rdF9oJhxQ0opU7jwXKK5ca3OQ6pzyWbmF187KCnWAGCkayYyfNIExrWMLKwMNHk0YS8XTcKiJOMflPQanh4AQd06NZ4pd7fgvjBEfFHn5wIKaqwYJrcVG1Hz/NphkoHQQ3dqRX9w+9isF5mC9vtvTcrim49M4+A6xUOrTvqK6Hle9qjgQeF9Gg8ZCDnULj1cQROF//4pSzKir9AjR7RFyGRr2a/HeND6m15v87YYqUvvvVDjDPcuHjcOeCp9mMEd3QoHffUjF+fa7wzXybD/NwXLzp0LgjV4Ls4iuAKww0HNhRCqxotOLZjmiXIMVpVgJpJtxZbOc=</data>
+  </component>
+</application>

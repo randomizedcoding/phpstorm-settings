@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[connect_explorer] - ...\build\blah.sql'" />
+    <option name="defaultScopeName" value="File '[connect_explorer] - ...\build\blah.sql'" />
+    <option name="SEARCH_SCOPE" value="File '[connect_explorer] - ...\build\blah.sql'" />
+  </component>
+</application>
