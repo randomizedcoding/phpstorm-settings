@@ -20,9 +20,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="92298adf-7e9b-42f7-a70c-81bd8eb0d614" name="KRPano Server" url="http://localhost:8090/index.html">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAA8OwJvYQXeC3u04rdF9oJhxQ0opU7jwXKK5ca3OQ6pzyWbmF187KCnWAGCkayYyfNIExrWMLKwMNHk0YS8XTcKiJOMflPQanh4AQd06NZ4pd7fgvjBEfFHn5wIKaqwYJrcVG1Hz/NphkoHQQ3dqRX9w+9isF5mC9vtvTcrim49M4+A6xUOrTvqK6Hle9qjgQeF9Gg8ZCDnULj1cQROF//4pSzKir9AjR7RFyGRr2a/HeND6m15v87YYqUvvvVDjDPcuHjcOeCp9mMEd3QoHffUjF+fa7wzXybD/NwXLzp0LgjV4Ls4iuAKww0HNhRCqxotOLZjmiXIMVpVgJpJtxZbOc=</data>
+    <data>AAAA8MLQoVuzDYHCHfw45VLD5GJ5XwGj/LYEw1A482kjVcyUNdeOPCx22Vilp0PWdlS6vG2PBfhWtCeoB4r96qg05msJIZHI7B5x0PFLSNAEaIOts5F2M9x42QedNtFJDd3J5l0GnNW4XgIq2w0lnvhTKTV0F6sdHebgX+NXwSkBreLc6TAjcJP00hYMnTeUYOY7K2bgffZAohMGpqEY/LuyJxx5Hdh3rl2nnkBjBuIttLVwE1Gr1kSuwMBKkTk5qc7PVaFrkRoYHWGBqihdkKD2LUZMWhNoiTpTPJ34F25supkt0Ca9k+dJHPuxe4MTJpcn8GD1BVnH6YK2BA8AyJLdG1c=</data>
   </component>
 </application>
